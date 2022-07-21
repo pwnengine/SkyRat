@@ -7,6 +7,9 @@ Also, I am writing a tutorial on winsock2 for people who would like to create so
 FEATURES:
 
 -ability to have multiple connections
+
 -open shell on connected clients (e.g., run commands)
+
 -take a screenshot of a client's desktop
+
 -run shellcode on a client
