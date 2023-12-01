@@ -1,5 +1,5 @@
 # SkyRat
-Remote Access Trojan I wrote, but didn't finish. Although, you could use this as is without many issues.
+Remote Administration Tool I wrote.
 SkyRat is written in C and uses sockets for client/server connection. 
 I do plan on updating Skyrat, but have multiple projects at the moment.
 Also, I am writing a tutorial on winsock2 for people who would like to create something similar.
