@@ -8,16 +8,16 @@ Also, I am writing a tutorial on winsock2 for people who would like to create so
 ![image](https://user-images.githubusercontent.com/99378532/180157840-8cdbe2cc-b28a-445d-a6c5-823af899484e.png)
 
 
-FEATURES:
+##FEATURES:
 
--ability to have multiple connections
+###ability to have multiple connections
 
--open shell on connected clients (e.g., run commands)
+###open shell on connected clients (e.g., run commands)
 
--take a screenshot of a client's desktop
+###take a screenshot of a client's desktop
 
--run shellcode on a client
+###run shellcode on a client
 
-CREDITS:
+##CREDITS:
 UI made with microui - https://github.com/rxi/microui
 
